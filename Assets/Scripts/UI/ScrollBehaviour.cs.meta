@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b2af43152761f6e49885e1d25bae2b76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defalutScrollSprite: {fileID: -1355241540561096043, guid: 2589b0f714ecc98469b71546f06ebb77, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

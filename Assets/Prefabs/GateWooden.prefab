@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8953901989309813130
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3710348331194523629, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Name
+      value: GateWooden
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523629, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523632, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7343792768680842347, guid: b791f17382d9ecd47b8b3756f03ea37e, type: 3}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Size.x
+      value: 0.3125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Size.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Offset.x
+      value: -1.21875
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523635, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: spriteSheet.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523635, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: spriteSheet.Array.data[0]
+      value: 
+      objectReference: {fileID: -891985372283486564, guid: b791f17382d9ecd47b8b3756f03ea37e, type: 3}
+    - target: {fileID: 3710348331194523635, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: spriteSheet.Array.data[1]
+      value: 
+      objectReference: {fileID: -7343792768680842347, guid: b791f17382d9ecd47b8b3756f03ea37e, type: 3}
+    - target: {fileID: 5255450108100408888, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21875
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}

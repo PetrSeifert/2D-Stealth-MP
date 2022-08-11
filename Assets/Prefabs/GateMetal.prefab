@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4554119454560426855
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2401588335343206739, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523629, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Name
+      value: GateMetal
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523633, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Size.x
+      value: 0.3125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Size.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523634, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: m_Offset.x
+      value: -1.21875
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710348331194523635, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: doorClosing
+      value: 
+      objectReference: {fileID: 8300000, guid: c037b15ab8fca7f42b69dad522a8ac05, type: 3}
+    - target: {fileID: 3710348331194523635, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
+      propertyPath: doorOpening
+      value: 
+      objectReference: {fileID: 8300000, guid: 726ac372b58ed1b4a8a5d3ab994b7914, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 99d5a12d1e56405459d7c55071293d88, type: 3}
